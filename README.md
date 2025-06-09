@@ -1,3 +1,5 @@
+<img src="paritosh_banne.png" alt="GitHub Banner" width="100%" />
+
 <h1>Hello Amazing person 👋, I'm Paritosh</h1>
 <p>A passionate senior developer from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
